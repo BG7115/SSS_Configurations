@@ -84,7 +84,7 @@
           "hasStepsNavigation": true,
           "heading": "check-power.CONNECT-TO-COMPUTER",
           "text": "check-power.IS-CABLE-INSERTED-INTO-COMPUTER",
-          "mediaUrl": "SP20/Connect_to_Computer.png",
+          "mediaUrl": "common/Connect_to_Computer.png",
           "buttons": {
             "yes": "buttons.ITS-PLUGGED-IN",
             "no": "buttons.NO-I-NEED-HELP"
@@ -136,7 +136,7 @@
               "hasStepsNavigation": true,
               "heading": "check-power.RE-CHECK-CONNECTION-TO-COMPUTER",
               "text": "check-power.RE-CHECK-CONNECTION-TO-COMPUTER-DESCRIPTION",
-              "mediaUrl": "SP20/Connect_to_Computer.png",
+              "mediaUrl": "common/Connect_to_Computer.png",
               "buttons": {
                 "yes": "buttons.YES-ITS-PLUGGED-IN"
               }
