@@ -9,7 +9,7 @@
       "hasStepsNavigation": true,
       "heading": "required-parts.LETS-SETUP-YOUR-SCANNER",
       "text": "required-parts.DO-YOU-HAVE-THESE-PARTS",
-      "mediaUrl": "wizard/missing-parts/Cable.png",
+      "mediaUrl": "wizard/Lets_Setup_Your_Scanner.png",
       "buttons": {
         "yes": "buttons.YES-I-DO",
         "no": "buttons.NO-I-DONT"
