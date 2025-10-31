@@ -9,7 +9,7 @@
       "hasStepsNavigation": true,
       "heading": "required-parts.LETS-SETUP-YOUR-SCANNER",
       "text": "required-parts.DO-YOU-HAVE-THESE-PARTS",
-      "mediaUrl": "wizard/Lets_Setup_Your_Scanner.png",
+      "mediaUrl": "Lets_Setup_Your_Scanner.png",
       "buttons": {
         "yes": "buttons.YES-I-DO",
         "no": "buttons.NO-I-DONT"
@@ -24,22 +24,22 @@
           "text": "required-parts.MISSING-PARTS-DESCRIPTION",
           "itemsList": [
             {
-              "mediaUrl": "wizard/missing-parts/Cable.png",
+              "mediaUrl": "missing-parts/Cable.png",
               "heading": "required-parts.missing-parts-sp20.CABLE-1",
               "text": "required-parts.missing-parts-sp20.CABLE-1-DESCRIPTION"
             },
             {
-              "mediaUrl": "wizard/missing-parts/Cable.png",
+              "mediaUrl": "missing-parts/Cable.png",
               "heading": "required-parts.missing-parts-sp20.CABLE-2",
               "text": "required-parts.missing-parts-sp20.CABLE-2-DESCRIPTION"
             },
             {
-              "mediaUrl": "wizard/missing-parts/Cable.png",
+              "mediaUrl": "missing-parts/Cable.png",
               "heading": "required-parts.missing-parts-sp20.CABLE-3",
               "text": "required-parts.missing-parts-sp20.CABLE-3-DESCRIPTION"
             },
             {
-              "mediaUrl": "wizard/missing-parts/Cable.png",
+              "mediaUrl": "missing-parts/Cable.png",
               "heading": "required-parts.missing-parts-sp20.CABLE-4",
               "text": "required-parts.missing-parts-sp20.CABLE-4-DESCRIPTION"
             }
@@ -58,7 +58,7 @@
       "hasStepsNavigation": true,
       "heading": "check-power.CONNECT-SCANNER-TO-COMPUTER",
       "text": "check-power.IS-THE-GREEN-LED-ON",
-      "mediaUrl": "wizard/Connect_Scanner_to_Computer.png",
+      "mediaUrl": "Connect_Scanner_to_Computer.png",
       "buttons": {
         "yes": "buttons.YES-IT-IS",
         "no": "buttons.NO-ITS-NOT"
@@ -71,7 +71,7 @@
           "hasStepsNavigation": true,
           "heading": "check-power.CONNECT-TO-SCANNER",
           "text": "check-power.IS-THE-CABLE-INSERTED-TO-THE-SCANNER",
-          "mediaUrl": "wizard/Connect_to_Scanner.png",
+          "mediaUrl": "Connect_to_Scanner.png",
           "additionalInfo": "check-power.CONNECT-TO-SCANNER-ADDITIONAL-INFO",
           "buttons": {
             "yes": "buttons.ITS-PLUGGED-IN"
@@ -84,7 +84,7 @@
           "hasStepsNavigation": true,
           "heading": "check-power.CONNECT-TO-COMPUTER",
           "text": "check-power.IS-CABLE-INSERTED-INTO-COMPUTER",
-          "mediaUrl": "wizard/Connect_to_Computer.png",
+          "mediaUrl": "Connect_to_Computer.png",
           "buttons": {
             "yes": "buttons.ITS-PLUGGED-IN",
             "no": "buttons.NO-I-NEED-HELP"
@@ -97,7 +97,7 @@
               "hasStepsNavigation": true,
               "heading": "check-power.TRY-DIFFERENT-COMPUTER-USB-PORT",
               "text": "check-power.MUST-BE-POWERED-USB-HUB",
-              "mediaUrl": "wizard/Try_different_computer_USB_port.png",
+              "mediaUrl": "Try_different_computer_USB_port.png",
               "buttons": {
                 "yes": "buttons.ITS-PLUGGED-IN"
               }
@@ -111,7 +111,7 @@
           "hasStepsNavigation": true,
           "heading": "check-power.RE-CHECK-POWER",
           "text": "check-power.IS-THE-GREEN-LED-ON-NOW",
-          "mediaUrl": "wizard/Connect_Scanner_to_Computer.png",
+          "mediaUrl": "Connect_Scanner_to_Computer.png",
           "buttons": {
             "yes": "buttons.YES-I-SEE-A-LIGHT",
             "no": "buttons.NO-I-NEED-HELP"
@@ -124,7 +124,7 @@
               "hasStepsNavigation": true,
               "heading": "check-power.RE-CHECK-CONNECTION-TO-SCANNER",
               "text": "check-power.RE-CHECK-CONNECTION-TO-SCANNER-DESCRIPTION",
-              "mediaUrl": "wizard/Connect_to_Scanner.png",
+              "mediaUrl": "Connect_to_Scanner.png",
               "buttons": {
                 "yes": "buttons.YES-ITS-PLUGGED-IN"
               }
@@ -136,7 +136,7 @@
               "hasStepsNavigation": true,
               "heading": "check-power.RE-CHECK-CONNECTION-TO-COMPUTER",
               "text": "check-power.RE-CHECK-CONNECTION-TO-COMPUTER-DESCRIPTION",
-              "mediaUrl": "wizard/Connect_to_Computer.png",
+              "mediaUrl": "Connect_to_Computer.png",
               "buttons": {
                 "yes": "buttons.YES-ITS-PLUGGED-IN"
               }
@@ -148,7 +148,7 @@
               "hasStepsNavigation": true,
               "heading": "check-power.RE-CHECK-POWER-AGAIN",
               "text": "check-power.IS-THE-GREEN-LED-ON",
-              "mediaUrl": "wizard/Connect_Scanner_to_Computer.png",
+              "mediaUrl": "Connect_Scanner_to_Computer.png",
               "buttons": {
                 "yes": "buttons.YES",
                 "no": "buttons.CHAT-FOR-HELP",
@@ -166,7 +166,7 @@
       "hasStepsNavigation": true,
       "heading": "test-scan.TEST-SCAN-STEP-1",
       "text": "test-scan.LAUNCH-YOUR-APP",
-      "mediaUrl": "wizard/Test_Scan_1.png",
+      "mediaUrl": "Test_Scan_1.png",
       "buttons": {
         "yes": "buttons.NEXT"
       }
@@ -178,7 +178,7 @@
       "hasStepsNavigation": true,
       "heading": "test-scan.TEST-SCAN-STEP-2",
       "text": "test-scan.SCAN-YOUR-BARCODE",
-      "mediaUrl": "wizard/Test_Scan_2.png",
+      "mediaUrl": "Test_Scan_2.png",
       "buttons": {
         "yes": "buttons.NEXT"
       }
@@ -190,7 +190,7 @@
       "hasStepsNavigation": true,
       "heading": "test-scan.TEST-SCAN-STEP-3",
       "text": "test-scan.IS-EVERYTHING-WORKING-CORRECTLY",
-      "mediaUrl": "wizard/Test_Scan_3.png",
+      "mediaUrl": "Test_Scan_3.png",
       "buttons": {
         "yes": "buttons.YES-IT_WORKS",
         "no": "buttons.NO-NOT-WORKING"
@@ -203,7 +203,7 @@
           "hasStepsNavigation": true,
           "heading": "test-scan.LISTEN-FOR-BEEP",
           "text": "test-scan.DO-YOU-HEAR-A-BEEP-WHEN-SCANNING",
-          "mediaUrl": "wizard/Listen_For_Beep.png",
+          "mediaUrl": "Listen_For_Beep.png",
           "buttons": {
             "yes": "buttons.YES-IT-BEEPS",
             "no": "buttons.CHAT-FOR-HELP",
@@ -217,7 +217,7 @@
           "hasStepsNavigation": true,
           "heading": "test-scan.TRY-FIX-1",
           "text": "test-scan.SCAN-BARCODE",
-          "mediaUrl": "wizard/Fix1.png",
+          "mediaUrl": "Fix1.png",
           "barcodeUrl": "Fix1.pdf",
           "additionalInfo": "check-power.TRY-FIX-1-INFO",
           "buttons": {
@@ -231,7 +231,7 @@
           "hasStepsNavigation": true,
           "heading": "test-scan.RETRY-TEST-SCAN",
           "text": "test-scan.IS-EVERYTHING-WORKING-CORRECTLY-NOW",
-          "mediaUrl": "wizard/Retry_Test_Scan.png",
+          "mediaUrl": "Retry_Test_Scan.png",
           "buttons": {
             "yes": "buttons.YES-IT_WORKS",
             "no": "buttons.NO-NOT-WORKING"
@@ -244,7 +244,7 @@
               "hasStepsNavigation": true,
               "heading": "test-scan.TRY-FIX-2",
               "text": "test-scan.SCAN-BARCODE",
-              "mediaUrl": "wizard/Fix2.png",
+              "mediaUrl": "Fix2.png",
               "barcodeUrl": "Fix2.pdf",
               "additionalInfo": "check-power.TRY-FIX-2-INFO",
               "buttons": {
@@ -258,7 +258,7 @@
               "hasStepsNavigation": true,
               "heading": "test-scan.RETRY-TEST-SCAN",
               "text": "test-scan.IS-EVERYTHING-WORKING-CORRECTLY-NOW",
-              "mediaUrl": "wizard/Retry_Test_Scan.png",
+              "mediaUrl": "Retry_Test_Scan.png",
               "buttons": {
                 "yes": "buttons.YES-IT_WORKS",
                 "no": "buttons.CHAT-FOR-HELP",
