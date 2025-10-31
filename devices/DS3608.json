@@ -1,6 +1,6 @@
 {
-  "id": "SP20",
-  "name": "SP20 Scanner",
+  "id": "DS3608",
+  "name": "DS3608 Scanner",
   "wizardConfig": [
     {
       "stepNumber": 0,
