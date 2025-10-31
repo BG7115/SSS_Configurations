@@ -1,0 +1,116 @@
+{
+  "intro": {
+    "WELCOME-HEADING": "Let's Setup Your Scanner",
+    "QUICK-AND-EASY": "Quick & Easy",
+    "QUICK-AND-EASY-DESCRIPTION": "5 minutes and you are done!",
+    "VIEW-QUICK-START-GUIDE": "View Quick Start Guide"
+  },
+  "power-user-tool": {
+    "POWER-USER-TOOL-HEADING": "Power User Tool",
+    "POWER-USER-TOOL-BUTTON-DESCRIPTION-1": "Access to all parameters.",
+    "POWER-USER-TOOL-BUTTON-DESCRIPTION-2": "Typical setup time > 45 minutes.",
+    "POWER-USER-TOOL-TEXT": "The Zebra Power User Tool is a windows based application. Here is how you can access it:",
+    "FIRST-OPTION": "Open a browser window on your windows based computer.",
+    "SECOND-OPTION": "Type in the following URL: zebra.com/123scan",
+    "THIRD-OPTION": "Begin configuring your scanner!"
+  },
+  "header": {
+    "HEADER-LABEL": "Simple Scanner Setup"
+  },
+  "required-parts": {
+    "REQUIRED-PARTS": "Required Parts",
+    "LETS-SETUP-YOUR-SCANNER": "Let's Setup Your Scanner",
+    "DO-YOU-HAVE-THESE-PARTS": "Do you have these parts?",
+    "MISSING-PARTS": "Missing Parts",
+    "MISSING-PARTS-DESCRIPTION": "Restart after you have the missing parts.",
+    "missing-parts-sp20": {
+      "CABLE-1": "CBA-HF-UA00-071ZA",
+      "CABLE-1-DESCRIPTION": "USB A, 7ft. (2.1m), Straight, Black, Right-Angle Connector",
+      "CABLE-2": "CBA-HF-UA00-070ZA",
+      "CABLE-2-DESCRIPTION": "USB A, 7ft. (2.1m), Straight, Black",
+      "CABLE-3": "CBA-HF-UA00-021ZA",
+      "CABLE-3-DESCRIPTION": "USB A, 2ft. (0.6m), Straight, Black, Right-Angle Connector",
+      "CABLE-4": "CBA-HF-UA00-020ZA",
+      "CABLE-4-DESCRIPTION": "USB A, 2ft. (0.6m), Straight, Black"
+    },
+    "missing-parts-ds9308": {
+      "CABLE-1": "temp-part-ds9308",
+      "CABLE-1-DESCRIPTION": "USB A, 7ft. (2.1m), Straight, Black, Right-Angle Connector",
+      "CABLE-2": "temp-part-ds9308",
+      "CABLE-2-DESCRIPTION": "USB A, 7ft. (2.1m), Straight, Black",
+      "CABLE-3": "temp-part-ds9308",
+      "CABLE-3-DESCRIPTION": "USB A, 2ft. (0.6m), Straight, Black, Right-Angle Connector",
+      "CABLE-4": "temp-part-ds9308",
+      "CABLE-4-DESCRIPTION": "USB A, 2ft. (0.6m), Straight, Black"
+    }
+  },
+  "check-power": {
+    "CHECK-POWER": "Check Power",
+    "CONNECT-SCANNER-TO-COMPUTER": "Connect Scanner to Computer",
+    "IS-THE-GREEN-LED-ON": "Is the green LED on?",
+    "IS-THE-GREEN-LED-ON-NOW": "Is the green LED on now?",
+    "CONNECT-TO-SCANNER": "Connect to Scanner",
+    "IS-THE-CABLE-INSERTED-TO-THE-SCANNER": "Is the cable inserted to the scanner?",
+    "CONNECT-TO-SCANNER-ADDITIONAL-INFO": "Check the orientation; it only fits one way. <br/>Push firmly until click.",
+    "CONNECT-TO-COMPUTER": "Connect to Computer",
+    "IS-CABLE-INSERTED-INTO-COMPUTER": "Is cable inserted into computer?",
+    "TRY-DIFFERENT-COMPUTER-USB-PORT": "Try different computer USB port",
+    "MUST-BE-POWERED-USB-HUB": "If using hub, it must be a “powered USB hub.”",
+    "RE-CHECK-POWER": "Re-Check Power",
+    "RE-CHECK-CONNECTION-TO-SCANNER": "Re-Check Connection to Scanner",
+    "RE-CHECK-CONNECTION-TO-SCANNER-DESCRIPTION": "1. Unplug cable.<br/> 2. Firmly reinsert, listen for click.",
+    "RE-CHECK-CONNECTION-TO-COMPUTER": "Re-Check Connection to Computer",
+    "RE-CHECK-CONNECTION-TO-COMPUTER-DESCRIPTION": "1. Ensure computer is on. <br/>2. Try different computer USB port. <br/>3. If using hub, it must be a “powered USB hub”",
+    "RE-CHECK-POWER-AGAIN": "Re-Check Power Again",
+    "TRY-FIX-1-INFO": "This barcode stops your scanner from \"Pressing Enter\" after each scan.",
+    "TRY-FIX-2-INFO": "This barcode enables your scanner to \"Press Tab\" after each scan."
+  },
+  "test-scan": {
+    "TEST-SCAN": "Test Scan",
+    "LAUNCH-YOUR-APP": "Launch your app",
+    "TEST-SCAN-STEP-1": "Test Scan - Step 1",
+    "TEST-SCAN-STEP-2": "Test Scan - Step 2",
+    "TEST-SCAN-STEP-3": "Test Scan - Step 3",
+    "SCAN-YOUR-BARCODE": "Scan your barcode",
+    "IS-EVERYTHING-WORKING-CORRECTLY": "Is everything working correctly?",
+    "IS-EVERYTHING-WORKING-CORRECTLY-NOW": "Is everything working correctly now?",
+    "LISTEN-FOR-BEEP": "Listen for Beep",
+    "DO-YOU-HEAR-A-BEEP-WHEN-SCANNING": "Do you hear a beep when scanning?",
+    "TRY-FIX-1": "Try Fix 1",
+    "TRY-FIX-2": "Try Fix 2",
+    "SCAN-BARCODE": "Scan barcode",
+    "RETRY-TEST-SCAN": "Retry Test Scan"
+  },
+  "success": {
+    "SUCCESS-HEADING": "Setup Complete!",
+    "SUCCESS-TEXT": "Pick what you want to do next."
+  },
+  "support": {
+    "ZEBRA-WILL-HELP-YOU": "Okay, Zebra support will help you resolve the issue.",
+    "CONTACT-ZEBRA-SUPPORT": "Please contact Zebra support to receive further assistance."
+  },
+  "buttons": {
+    "GET-STARTED": "Get Started",
+    "YES-I-DO": "Yes, I Do!",
+    "NO-I-DONT": "No, I Don't",
+    "DONE": "Done",
+    "DONE-DESCRIPTION": "Your scanner setup is complete!",
+    "CONFIGURE-ANOTHER-SCANNER": "Configure Another Scanner",
+    "CONFIGURE-ANOTHER-SCANNER-DESCRIPTION": "Download configuration barcode to use for another scanner",
+    "EXIT": "Exit",
+    "YES-IT-IS": "Yes, It Is!",
+    "NO-ITS-NOT": "No, It's Not",
+    "ITS-PLUGGED-IN": "It's Plugged In",
+    "YES-ITS-PLUGGED-IN": "Yes, It's Plugged In",
+    "NO-I-NEED-HELP": "No, I Need Help",
+    "YES-I-SEE-A-LIGHT": "Yes, I See A Light",
+    "YES": "Yes!",
+    "CHAT-FOR-HELP": "Chat For Help",
+    "CONTACT-ZEBRA-SUPPORT": "Contact Zebra Support",
+    "YES-IT_WORKS": "Yes, It Works!",
+    "NO-NOT-WORKING": "No, Not Working",
+    "YES-IT-BEEPS": "Yes, It Beeps",
+    "NEXT-STEP": "Next Step",
+    "NEXT": "Next"
+  }
+}
