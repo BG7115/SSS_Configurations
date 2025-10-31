@@ -24,7 +24,7 @@
           "text": "required-parts.MISSING-PARTS-DESCRIPTION",
           "itemsList": [
             {
-              "mediaUrl": "wizard/missing-parts/Cable.png",
+              "mediaUrl": "wizard/missing-parts/Cable3.png",
               "heading": "required-parts.missing-parts-sp20.CABLE-1",
               "text": "required-parts.missing-parts-sp20.CABLE-1-DESCRIPTION"
             },
