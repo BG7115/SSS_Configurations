@@ -1,0 +1,258 @@
+{
+  "id": "DS4678",
+  "name": "DS4678 Scanner",
+  "wizardConfig": [
+    {
+      "stepNumber": 0,
+      "stepLabel": "required-parts.REQUIRED-PARTS",
+      "id": "level-0",
+      "hasStepsNavigation": true,
+      "heading": "required-parts.LETS-SETUP-YOUR-SCANNER",
+      "text": "required-parts.DO-YOU-HAVE-THESE-PARTS",
+      "mediaUrl": "DS4678/Parts_Check.png",
+      "buttons": {
+        "yes": "buttons.YES-I-DO",
+        "no": "buttons.NO-I-DONT"
+      },
+      "steps": [
+        {
+          "stepNumber": 0,
+          "stepLabel": "required-parts.REQUIRED-PARTS",
+          "id": "level-0-0",
+          "hasStepsNavigation": false,
+          "heading": "required-parts.MISSING-PARTS",
+          "text": "required-parts.MISSING-PARTS-DESCRIPTION",
+          "itemsList": [
+            {
+              "mediaUrl": "DS4678/missing-parts/Cable.png",
+              "heading": "required-parts.missing-parts-ds4678.CABLE-1",
+              "text": "required-parts.missing-parts-ds4678.CABLE-1-DESCRIPTION"
+            }
+          ],
+          "buttons": {
+            "yes": "buttons.EXIT",
+            "yesCustomLink": "/wizard/0?subStepId=level-0"
+          }
+        }
+      ]
+    },
+    {
+      "stepNumber": 1,
+      "stepLabel": "check-power.CHECK-POWER",
+      "id": "level-1",
+      "hasStepsNavigation": true,
+      "heading": "check-power.CONNECT-SCANNER-TO-COMPUTER",
+      "text": "check-power.IS-THE-GREEN-LED-ON",
+      "mediaUrl": "SP20/Connect_Scanner_to_Computer.png",
+      "buttons": {
+        "yes": "buttons.YES-IT-IS",
+        "no": "buttons.NO-ITS-NOT"
+      },
+      "steps": [
+        {
+          "stepNumber": 1,
+          "stepLabel": "check-power.CHECK-POWER",
+          "id": "level-1-0",
+          "hasStepsNavigation": true,
+          "heading": "check-power.CONNECT-TO-SCANNER",
+          "text": "check-power.IS-THE-CABLE-INSERTED-TO-THE-SCANNER",
+          "mediaUrl": "SP20/Connect_to_Scanner.png",
+          "additionalInfo": "check-power.CONNECT-TO-SCANNER-ADDITIONAL-INFO",
+          "buttons": {
+            "yes": "buttons.ITS-PLUGGED-IN"
+          }
+        },
+        {
+          "stepNumber": 1,
+          "stepLabel": "check-power.CHECK-POWER",
+          "id": "level-1-1",
+          "hasStepsNavigation": true,
+          "heading": "check-power.CONNECT-TO-COMPUTER",
+          "text": "check-power.IS-CABLE-INSERTED-INTO-COMPUTER",
+          "mediaUrl": "common/Connect_to_Computer.png",
+          "buttons": {
+            "yes": "buttons.ITS-PLUGGED-IN",
+            "no": "buttons.NO-I-NEED-HELP"
+          },
+          "steps": [
+            {
+              "stepNumber": 1,
+              "stepLabel": "check-power.CHECK-POWER",
+              "id": "level-1-1-0",
+              "hasStepsNavigation": true,
+              "heading": "check-power.TRY-DIFFERENT-COMPUTER-USB-PORT",
+              "text": "check-power.MUST-BE-POWERED-USB-HUB",
+              "mediaUrl": "common/Try_different_computer_USB_port.png",
+              "buttons": {
+                "yes": "buttons.ITS-PLUGGED-IN"
+              }
+            }
+          ]
+        },
+        {
+          "stepNumber": 1,
+          "stepLabel": "check-power.CHECK-POWER",
+          "id": "level-1-2",
+          "hasStepsNavigation": true,
+          "heading": "check-power.RE-CHECK-POWER",
+          "text": "check-power.IS-THE-GREEN-LED-ON-NOW",
+          "mediaUrl": "SP20/Connect_Scanner_to_Computer.png",
+          "buttons": {
+            "yes": "buttons.YES-I-SEE-A-LIGHT",
+            "no": "buttons.NO-I-NEED-HELP"
+          },
+          "steps": [
+            {
+              "stepNumber": 1,
+              "stepLabel": "check-power.CHECK-POWER",
+              "id": "level-1-2-0",
+              "hasStepsNavigation": true,
+              "heading": "check-power.RE-CHECK-CONNECTION-TO-SCANNER",
+              "text": "check-power.RE-CHECK-CONNECTION-TO-SCANNER-DESCRIPTION",
+              "mediaUrl": "SP20/Connect_to_Scanner.png",
+              "buttons": {
+                "yes": "buttons.YES-ITS-PLUGGED-IN"
+              }
+            },
+            {
+              "stepNumber": 1,
+              "stepLabel": "check-power.CHECK-POWER",
+              "id": "level-1-3",
+              "hasStepsNavigation": true,
+              "heading": "check-power.RE-CHECK-CONNECTION-TO-COMPUTER",
+              "text": "check-power.RE-CHECK-CONNECTION-TO-COMPUTER-DESCRIPTION",
+              "mediaUrl": "common/Connect_to_Computer.png",
+              "buttons": {
+                "yes": "buttons.YES-ITS-PLUGGED-IN"
+              }
+            },
+            {
+              "stepNumber": 1,
+              "stepLabel": "check-power.CHECK-POWER",
+              "id": "level-1-4",
+              "hasStepsNavigation": true,
+              "heading": "check-power.RE-CHECK-POWER-AGAIN",
+              "text": "check-power.IS-THE-GREEN-LED-ON",
+              "mediaUrl": "SP20/Connect_Scanner_to_Computer.png",
+              "buttons": {
+                "yes": "buttons.YES",
+                "no": "buttons.CHAT-FOR-HELP",
+                "noCustomLink": "http://support.zebra.com"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stepNumber": 2,
+      "stepLabel": "test-scan.TEST-SCAN",
+      "id": "level-21",
+      "hasStepsNavigation": true,
+      "heading": "test-scan.TEST-SCAN-STEP-1",
+      "text": "test-scan.LAUNCH-YOUR-APP",
+      "mediaUrl": "common/Test_Scan_1.png",
+      "buttons": {
+        "yes": "buttons.NEXT"
+      }
+    },
+    {
+      "stepNumber": 2,
+      "stepLabel": "test-scan.TEST-SCAN",
+      "id": "level-22",
+      "hasStepsNavigation": true,
+      "heading": "test-scan.TEST-SCAN-STEP-2",
+      "text": "test-scan.SCAN-YOUR-BARCODE",
+      "mediaUrl": "common/Test_Scan_2.png",
+      "buttons": {
+        "yes": "buttons.NEXT"
+      }
+    },
+    {
+      "stepNumber": 2,
+      "stepLabel": "test-scan.TEST-SCAN",
+      "id": "level-23",
+      "hasStepsNavigation": true,
+      "heading": "test-scan.TEST-SCAN-STEP-3",
+      "text": "test-scan.IS-EVERYTHING-WORKING-CORRECTLY",
+      "mediaUrl": "common/Test_Scan_3.png",
+      "buttons": {
+        "yes": "buttons.YES-IT_WORKS",
+        "no": "buttons.NO-NOT-WORKING"
+      },
+      "steps": [
+        {
+          "stepNumber": 2,
+          "stepLabel": "test-scan.TEST-SCAN",
+          "id": "level-23-0",
+          "hasStepsNavigation": true,
+          "heading": "test-scan.LISTEN-FOR-BEEP",
+          "text": "test-scan.DO-YOU-HEAR-A-BEEP-WHEN-SCANNING",
+          "mediaUrl": "SP20/Listen_For_Beep.png",
+          "buttons": {
+            "yes": "buttons.YES-IT-BEEPS",
+            "no": "buttons.CHAT-FOR-HELP",
+            "noCustomLink": "http://support.zebra.com"
+          }
+        },
+        {
+          "stepNumber": 2,
+          "stepLabel": "test-scan.TEST-SCAN",
+          "id": "level-23-1",
+          "hasStepsNavigation": true,
+          "heading": "test-scan.TRY-FIX-1",
+          "text": "test-scan.SCAN-BARCODE",
+          "mediaUrl": "common/Fix1.png",
+          "barcodeUrl": "common/Fix1.pdf",
+          "additionalInfo": "check-power.TRY-FIX-1-INFO",
+          "buttons": {
+            "yes": "buttons.NEXT-STEP"
+          }
+        },
+        {
+          "stepNumber": 2,
+          "stepLabel": "test-scan.TEST-SCAN",
+          "id": "level-23-2",
+          "hasStepsNavigation": true,
+          "heading": "test-scan.RETRY-TEST-SCAN",
+          "text": "test-scan.IS-EVERYTHING-WORKING-CORRECTLY-NOW",
+          "mediaUrl": "common/Retry_Test_Scan.png",
+          "buttons": {
+            "yes": "buttons.YES-IT_WORKS",
+            "no": "buttons.NO-NOT-WORKING"
+          },
+          "steps": [
+            {
+              "stepNumber": 2,
+              "stepLabel": "test-scan.TEST-SCAN",
+              "id": "level-23-2-0",
+              "hasStepsNavigation": true,
+              "heading": "test-scan.TRY-FIX-2",
+              "text": "test-scan.SCAN-BARCODE",
+              "mediaUrl": "common/Fix2.png",
+              "barcodeUrl": "common/Fix2.pdf",
+              "additionalInfo": "check-power.TRY-FIX-2-INFO",
+              "buttons": {
+                "yes": "buttons.NEXT-STEP"
+              }
+            },
+            {
+              "stepNumber": 2,
+              "stepLabel": "test-scan.TEST-SCAN",
+              "id": "level-23-2-1",
+              "hasStepsNavigation": true,
+              "heading": "test-scan.RETRY-TEST-SCAN",
+              "text": "test-scan.IS-EVERYTHING-WORKING-CORRECTLY-NOW",
+              "mediaUrl": "common/Retry_Test_Scan.png",
+              "buttons": {
+                "yes": "buttons.YES-IT_WORKS",
+                "no": "buttons.CHAT-FOR-HELP",
+                "noCustomLink": "http://support.zebra.com"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

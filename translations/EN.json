@@ -60,6 +60,10 @@
     "missing-parts-sp7208": {
       "CABLE-1": "temp-part-sp7208",
       "CABLE-1-DESCRIPTION": "USB A, 7ft. (2.1m), Straight, Black, Right-Angle Connector"
+    },
+    "missing-parts-ds4678": {
+      "CABLE-1": "temp-part-ds4678",
+      "CABLE-1-DESCRIPTION": "USB A, 7ft. (2.1m), Straight, Black, Right-Angle Connector"
     }
   },
   "check-power": {
@@ -81,7 +85,24 @@
     "RE-CHECK-CONNECTION-TO-COMPUTER-DESCRIPTION": "1. Ensure computer is on. <br/>2. Try different computer USB port. <br/>3. If using hub, it must be a “powered USB hub”",
     "RE-CHECK-POWER-AGAIN": "Re-Check Power Again",
     "TRY-FIX-1-INFO": "This barcode stops your scanner from \"Pressing Enter\" after each scan.",
-    "TRY-FIX-2-INFO": "This barcode enables your scanner to \"Press Tab\" after each scan."
+    "TRY-FIX-2-INFO": "This barcode enables your scanner to \"Press Tab\" after each scan.",
+    "INSERT_BATTERY": "Insert Battery",
+    "IS-BATTERY-INSERTED": "Is the battery inserted into Scanner?",
+    "CONNECT-CRADLE-TO-COMPUTER": "Connect Cradle to Computer",
+    "IS-CRADLE-GREEN-LED-ON": "Is the cradle’s green LED on?",
+    "UNLOCK_BATTERY_DESCRIPTION": "1. Unlock battery latch with coin.<br/> 2. Insert battery and lock battery latch.",
+    "IS-CABLE-INSERTED-TO-CRADLE": "Is cable inserted to the cradle?",
+    "RECHECK-CONNECTION-TO-CRALE": "Re-Check Connection to Cradle",
+    "RECHECK-CONNECTION-TO-COMPUTER": "Re-Check Connection to Computer",
+    "IS-CRADLE-GREEN-LED-ON-NOW": "Is the cradle’s green LED on now?",
+    "PLACE-SCANNER-ON-CRADLE": "Place Scanner on Cradle",
+    "PLACE-SCANNER-ON-CRADLE-DESCRIPTION": "Place scanner in cradle to pair with cradle.",
+    "PLACE-SCANNER-ON-CRADLE-ADDITIONAL-INFO": "A beep on your scanner confirms successful pairing.",
+    "CONFIRM-SCANNER-IS-CHARGED": "Confirm Scanner is Charged",
+    "CONFIRM-SCANNER-IS-CHARGED-DESCRIPTION": "If scanner does not produce a beam when triggered, seat scanner in cradle and allow time to achieve minimum charge to connect.",
+    "CONFIRM-SCANNER-IS-CHARGED-ADDITIONAL-INFO": "Red/amber/green lights indicate charge level. Wait for an amber charge level to pair scanner.",
+    "HAS-SCANNER-PAIRED": "Has the Scanner paired?",
+    "HAS-SCANNER-PAIRED-DESCRIPTION": "If Scanner doesn’t pair, scan the pairing barcode on the cradle."
   },
   "test-scan": {
     "TEST-SCAN": "Test Scan",
