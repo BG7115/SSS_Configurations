@@ -1,0 +1,134 @@
+{
+  "intro": {
+    "WELCOME-HEADING": "Vamos a configurar tu escáner",
+    "QUICK-AND-EASY": "Rápido y fácil",
+    "QUICK-AND-EASY-DESCRIPTION": "¡En 5 minutos estarás listo!",
+    "VIEW-QUICK-START-GUIDE": "Ver guía de inicio rápido"
+  },
+  "power-user-tool": {
+    "POWER-USER-TOOL-HEADING": "Herramienta para usuarios avanzados",
+    "POWER-USER-TOOL-BUTTON-DESCRIPTION-1": "Acceso a todos los parámetros.",
+    "POWER-USER-TOOL-BUTTON-DESCRIPTION-2": "Tiempo típico de configuración > 45 minutos.",
+    "POWER-USER-TOOL-TEXT": "La herramienta para usuarios avanzados de Zebra es una aplicación basada en Windows. Así es como puedes acceder a ella:",
+    "FIRST-OPTION": "Abre una ventana del navegador en tu computadora con Windows.",
+    "SECOND-OPTION": "Escribe la siguiente URL: zebra.com/123scan",
+    "THIRD-OPTION": "¡Comienza a configurar tu escáner!"
+  },
+  "header": {
+    "HEADER-LABEL": "Configuración simple del escáner"
+  },
+  "required-parts": {
+    "REQUIRED-PARTS": "Partes requeridas",
+    "LETS-SETUP-YOUR-SCANNER": "Vamos a configurar tu escáner",
+    "DO-YOU-HAVE-THESE-PARTS": "¿Tienes estas partes?",
+    "MISSING-PARTS": "Partes faltantes",
+    "MISSING-PARTS-DESCRIPTION": "Reinicia después de tener las partes faltantes.",
+    "missing-parts-sp20": {
+      "CABLE-1": "CBA-HF-UA00-071ZA",
+      "CABLE-1-DESCRIPTION": "USB A, 7 pies (2.1m), Recto, Negro, Conector en ángulo recto",
+      "CABLE-2": "CBA-HF-UA00-070ZA",
+      "CABLE-2-DESCRIPTION": "USB A, 7 pies (2.1m), Recto, Negro",
+      "CABLE-3": "CBA-HF-UA00-021ZA",
+      "CABLE-3-DESCRIPTION": "USB A, 2 pies (0.6m), Recto, Negro, Conector en ángulo recto",
+      "CABLE-4": "CBA-HF-UA00-020ZA",
+      "CABLE-4-DESCRIPTION": "USB A, 2 pies (0.6m), Recto, Negro"
+    },
+    "missing-parts-ds9308": {
+      "CABLE-1": "temp-part-ds9308",
+      "CABLE-1-DESCRIPTION": "USB A, 7 pies (2.1m), Recto, Negro, Conector en ángulo recto"
+    },
+    "missing-parts-ds4608": {
+      "CABLE-1": "temp-part-ds4608",
+      "CABLE-1-DESCRIPTION": "USB A, 7 pies (2.1m), Recto, Negro, Conector en ángulo recto"
+    },
+    "missing-parts-ds2208": {
+      "CABLE-1": "temp-part-ds2208",
+      "CABLE-1-DESCRIPTION": "USB A, 7 pies (2.1m), Recto, Negro, Conector en ángulo recto"
+    },
+    "missing-parts-ds8208": {
+      "CABLE-1": "temp-part-ds8208",
+      "CABLE-1-DESCRIPTION": "USB A, 7 pies (2.1m), Recto, Negro, Conector en ángulo recto"
+    },
+    "missing-parts-ds8108": {
+      "CABLE-1": "temp-part-ds8108",
+      "CABLE-1-DESCRIPTION": "USB A, 7 pies (2.1m), Recto, Negro, Conector en ángulo recto"
+    },
+    "missing-parts-ds3608": {
+      "CABLE-1": "temp-part-ds3608",
+      "CABLE-1-DESCRIPTION": "USB A, 7 pies (2.1m), Recto, Negro, Conector en ángulo recto"
+    },
+    "missing-parts-sp7208": {
+      "CABLE-1": "temp-part-sp7208",
+      "CABLE-1-DESCRIPTION": "USB A, 7 pies (2.1m), Recto, Negro, Conector en ángulo recto"
+    }
+  },
+  "check-power": {
+    "CHECK-POWER": "Verificar energía",
+    "CONNECT-SCANNER-TO-COMPUTER": "Conectar el escáner a la computadora",
+    "IS-THE-GREEN-LED-ON": "¿Está encendido el LED verde?",
+    "IS-THE-GREEN-LED-ON-NOW": "¿Está encendido el LED verde ahora?",
+    "CONNECT-TO-SCANNER": "Conectar al escáner",
+    "IS-THE-CABLE-INSERTED-TO-THE-SCANNER": "¿Está conectado el cable al escáner?",
+    "CONNECT-TO-SCANNER-ADDITIONAL-INFO": "Revisa la orientación; solo encaja de una manera. <br/>Presiona firmemente hasta escuchar un clic.",
+    "CONNECT-TO-COMPUTER": "Conectar a la computadora",
+    "IS-CABLE-INSERTED-INTO-COMPUTER": "¿Está conectado el cable en la computadora?",
+    "TRY-DIFFERENT-COMPUTER-USB-PORT": "Prueba otro puerto USB de la computadora",
+    "MUST-BE-POWERED-USB-HUB": "Si utilizas un hub, debe ser un “hub USB con alimentación”.",
+    "RE-CHECK-POWER": "Verifica la energía nuevamente",
+    "RE-CHECK-CONNECTION-TO-SCANNER": "Verifica nuevamente la conexión al escáner",
+    "RE-CHECK-CONNECTION-TO-SCANNER-DESCRIPTION": "1. Desconecta el cable.<br/> 2. Insértalo nuevamente firmemente, escucha el clic.",
+    "RE-CHECK-CONNECTION-TO-COMPUTER": "Verifica nuevamente la conexión a la computadora",
+    "RE-CHECK-CONNECTION-TO-COMPUTER-DESCRIPTION": "1. Asegúrate de que la computadora esté encendida. <br/>2. Prueba otro puerto USB de la computadora. <br/>3. Si utilizas un hub, debe ser un “hub USB con alimentación”.",
+    "RE-CHECK-POWER-AGAIN": "Verifica la energía nuevamente",
+    "TRY-FIX-1-INFO": "Este código de barras evita que tu escáner \"Presione Enter\" después de cada escaneo.",
+    "TRY-FIX-2-INFO": "Este código de barras permite que tu escáner \"Presione Tab\" después de cada escaneo."
+  },
+  "test-scan": {
+    "TEST-SCAN": "Prueba de escaneo",
+    "LAUNCH-YOUR-APP": "Inicia tu aplicación",
+    "TEST-SCAN-STEP-1": "Prueba de escaneo - Paso 1",
+    "TEST-SCAN-STEP-2": "Prueba de escaneo - Paso 2",
+    "TEST-SCAN-STEP-3": "Prueba de escaneo - Paso 3",
+    "SCAN-YOUR-BARCODE": "Escanea tu código de barras",
+    "IS-EVERYTHING-WORKING-CORRECTLY": "¿Todo está funcionando correctamente?",
+    "IS-EVERYTHING-WORKING-CORRECTLY-NOW": "¿Todo está funcionando correctamente ahora?",
+    "LISTEN-FOR-BEEP": "Escucha el pitido",
+    "DO-YOU-HEAR-A-BEEP-WHEN-SCANNING": "¿Escuchas un pitido al escanear?",
+    "TRY-FIX-1": "Prueba solución 1",
+    "TRY-FIX-2": "Prueba solución 2",
+    "SCAN-BARCODE": "Escanea el código de barras",
+    "RETRY-TEST-SCAN": "Reintentar prueba de escaneo"
+  },
+  "success": {
+    "SUCCESS-HEADING": "¡Configuración completa!",
+    "SUCCESS-TEXT": "Elige lo que quieres hacer a continuación."
+  },
+  "support": {
+    "ZEBRA-WILL-HELP-YOU": "De acuerdo, el soporte de Zebra te ayudará a resolver el problema.",
+    "CONTACT-ZEBRA-SUPPORT": "Por favor, contacta al soporte de Zebra para recibir más asistencia."
+  },
+  "buttons": {
+    "GET-STARTED": "Comenzar",
+    "YES-I-DO": "¡Sí, lo tengo!",
+    "NO-I-DONT": "No, no lo tengo",
+    "DONE": "Hecho",
+    "DONE-DESCRIPTION": "¡La configuración de tu escáner está completa!",
+    "CONFIGURE-ANOTHER-SCANNER": "Configurar otro escáner",
+    "CONFIGURE-ANOTHER-SCANNER-DESCRIPTION": "Descarga el código de barras de configuración para usarlo en otro escáner",
+    "EXIT": "Salir",
+    "YES-IT-IS": "¡Sí, lo está!",
+    "NO-ITS-NOT": "No, no lo está",
+    "ITS-PLUGGED-IN": "Está conectado",
+    "YES-ITS-PLUGGED-IN": "Sí, está conectado",
+    "NO-I-NEED-HELP": "No, necesito ayuda",
+    "YES-I-SEE-A-LIGHT": "Sí, veo una luz",
+    "YES": "¡Sí!",
+    "CHAT-FOR-HELP": "Chatear para obtener ayuda",
+    "CONTACT-ZEBRA-SUPPORT": "Contactar con el soporte de Zebra",
+    "YES-IT_WORKS": "¡Sí, funciona!",
+    "NO-NOT-WORKING": "No, no funciona",
+    "YES-IT-BEEPS": "Sí, emite un pitido",
+    "NEXT-STEP": "Siguiente paso",
+    "NEXT": "Siguiente"
+  }
+}
