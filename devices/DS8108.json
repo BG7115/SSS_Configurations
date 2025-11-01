@@ -24,9 +24,9 @@
           "text": "required-parts.MISSING-PARTS-DESCRIPTION",
           "itemsList": [
             {
-              "mediaUrl": "DS8208/missing-parts/Cable.png",
-              "heading": "required-parts.missing-parts-ds8208.CABLE-1",
-              "text": "required-parts.missing-parts-ds8208.CABLE-1-DESCRIPTION"
+              "mediaUrl": "DS8108/missing-parts/Cable.png",
+              "heading": "required-parts.missing-parts-ds8108.CABLE-1",
+              "text": "required-parts.missing-parts-ds8108.CABLE-1-DESCRIPTION"
             }
           ],
           "buttons": {
