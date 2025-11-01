@@ -1,6 +1,6 @@
 {
-  "id": "DS3608",
-  "name": "DS3608 Scanner",
+  "id": "DS8108",
+  "name": "DS8108 Scanner",
   "wizardConfig": [
     {
       "stepNumber": 0,
@@ -24,9 +24,9 @@
           "text": "required-parts.MISSING-PARTS-DESCRIPTION",
           "itemsList": [
             {
-              "mediaUrl": "DS3608/missing-parts/Cable.png",
-              "heading": "required-parts.missing-parts-ds3608.CABLE-1",
-              "text": "required-parts.missing-parts-ds3608.CABLE-1-DESCRIPTION"
+              "mediaUrl": "DS8208/missing-parts/Cable.png",
+              "heading": "required-parts.missing-parts-ds8208.CABLE-1",
+              "text": "required-parts.missing-parts-ds8208.CABLE-1-DESCRIPTION"
             }
           ],
           "buttons": {

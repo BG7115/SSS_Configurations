@@ -1,6 +1,6 @@
 {
-  "id": "DS3608",
-  "name": "DS3608 Scanner",
+  "id": "SP7208",
+  "name": "SP7208 Scanner",
   "wizardConfig": [
     {
       "stepNumber": 0,
@@ -9,7 +9,7 @@
       "hasStepsNavigation": true,
       "heading": "required-parts.LETS-SETUP-YOUR-SCANNER",
       "text": "required-parts.DO-YOU-HAVE-THESE-PARTS",
-      "mediaUrl": "DS8208/Parts_Check.png",
+      "mediaUrl": "SP7208/Parts_Check.png",
       "buttons": {
         "yes": "buttons.YES-I-DO",
         "no": "buttons.NO-I-DONT"
@@ -24,9 +24,9 @@
           "text": "required-parts.MISSING-PARTS-DESCRIPTION",
           "itemsList": [
             {
-              "mediaUrl": "DS3608/missing-parts/Cable.png",
-              "heading": "required-parts.missing-parts-ds3608.CABLE-1",
-              "text": "required-parts.missing-parts-ds3608.CABLE-1-DESCRIPTION"
+              "mediaUrl": "SP7208/missing-parts/Cable.png",
+              "heading": "required-parts.missing-parts-sp7208.CABLE-1",
+              "text": "required-parts.missing-parts-sp7208.CABLE-1-DESCRIPTION"
             }
           ],
           "buttons": {
@@ -43,7 +43,7 @@
       "hasStepsNavigation": true,
       "heading": "check-power.CONNECT-SCANNER-TO-COMPUTER",
       "text": "check-power.IS-THE-GREEN-LED-ON",
-      "mediaUrl": "DS8208/Connect_Scanner_to_Computer.png",
+      "mediaUrl": "SP7208/Connect_Scanner_to_Computer.png",
       "buttons": {
         "yes": "buttons.YES-IT-IS",
         "no": "buttons.NO-ITS-NOT"
@@ -56,7 +56,7 @@
           "hasStepsNavigation": true,
           "heading": "check-power.CONNECT-TO-SCANNER",
           "text": "check-power.IS-THE-CABLE-INSERTED-TO-THE-SCANNER",
-          "mediaUrl": "DS8208/Connect_to_Scanner.png",
+          "mediaUrl": "SP7208/Connect_to_Scanner.png",
           "additionalInfo": "check-power.CONNECT-TO-SCANNER-ADDITIONAL-INFO",
           "buttons": {
             "yes": "buttons.ITS-PLUGGED-IN"
@@ -96,7 +96,7 @@
           "hasStepsNavigation": true,
           "heading": "check-power.RE-CHECK-POWER",
           "text": "check-power.IS-THE-GREEN-LED-ON-NOW",
-          "mediaUrl": "DS8208/Connect_Scanner_to_Computer.png",
+          "mediaUrl": "SP7208/Connect_Scanner_to_Computer.png",
           "buttons": {
             "yes": "buttons.YES-I-SEE-A-LIGHT",
             "no": "buttons.NO-I-NEED-HELP"
@@ -109,7 +109,7 @@
               "hasStepsNavigation": true,
               "heading": "check-power.RE-CHECK-CONNECTION-TO-SCANNER",
               "text": "check-power.RE-CHECK-CONNECTION-TO-SCANNER-DESCRIPTION",
-              "mediaUrl": "DS8208/Connect_to_Scanner.png",
+              "mediaUrl": "SP7208/Connect_to_Scanner.png",
               "buttons": {
                 "yes": "buttons.YES-ITS-PLUGGED-IN"
               }
@@ -133,7 +133,7 @@
               "hasStepsNavigation": true,
               "heading": "check-power.RE-CHECK-POWER-AGAIN",
               "text": "check-power.IS-THE-GREEN-LED-ON",
-              "mediaUrl": "DS8208/Connect_Scanner_to_Computer.png",
+              "mediaUrl": "SP7208/Connect_Scanner_to_Computer.png",
               "buttons": {
                 "yes": "buttons.YES",
                 "no": "buttons.CHAT-FOR-HELP",
@@ -188,7 +188,7 @@
           "hasStepsNavigation": true,
           "heading": "test-scan.LISTEN-FOR-BEEP",
           "text": "test-scan.DO-YOU-HEAR-A-BEEP-WHEN-SCANNING",
-          "mediaUrl": "DS8208/Listen_For_Beep.png",
+          "mediaUrl": "SP7208/Listen_For_Beep.png",
           "buttons": {
             "yes": "buttons.YES-IT-BEEPS",
             "no": "buttons.CHAT-FOR-HELP",

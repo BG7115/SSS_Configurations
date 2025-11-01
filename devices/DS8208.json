@@ -1,6 +1,6 @@
 {
-  "id": "DS3608",
-  "name": "DS3608 Scanner",
+  "id": "DS8208",
+  "name": "DS8208 Scanner",
   "wizardConfig": [
     {
       "stepNumber": 0,
@@ -24,9 +24,9 @@
           "text": "required-parts.MISSING-PARTS-DESCRIPTION",
           "itemsList": [
             {
-              "mediaUrl": "DS3608/missing-parts/Cable.png",
-              "heading": "required-parts.missing-parts-ds3608.CABLE-1",
-              "text": "required-parts.missing-parts-ds3608.CABLE-1-DESCRIPTION"
+              "mediaUrl": "DS8208/missing-parts/Cable.png",
+              "heading": "required-parts.missing-parts-ds8208.CABLE-1",
+              "text": "required-parts.missing-parts-ds8208.CABLE-1-DESCRIPTION"
             }
           ],
           "buttons": {
@@ -69,7 +69,7 @@
           "hasStepsNavigation": true,
           "heading": "check-power.CONNECT-TO-COMPUTER",
           "text": "check-power.IS-CABLE-INSERTED-INTO-COMPUTER",
-          "mediaUrl": "common/Connect_to_Computer.png",
+          "mediaUrl": "DS8208/Connect_to_Computer.png",
           "buttons": {
             "yes": "buttons.ITS-PLUGGED-IN",
             "no": "buttons.NO-I-NEED-HELP"

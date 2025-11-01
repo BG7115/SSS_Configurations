@@ -25,23 +25,8 @@
           "itemsList": [
             {
               "mediaUrl": "DS9308/missing-parts/Cable.png",
-              "heading": "required-parts.missing-parts-sp20.CABLE-1",
-              "text": "required-parts.missing-parts-sp20.CABLE-1-DESCRIPTION"
-            },
-            {
-              "mediaUrl": "DS9308/missing-parts/Cable.png",
-              "heading": "required-parts.missing-parts-sp20.CABLE-2",
-              "text": "required-parts.missing-parts-sp20.CABLE-2-DESCRIPTION"
-            },
-            {
-              "mediaUrl": "DS9308/missing-parts/Cable.png",
-              "heading": "required-parts.missing-parts-sp20.CABLE-3",
-              "text": "required-parts.missing-parts-sp20.CABLE-3-DESCRIPTION"
-            },
-            {
-              "mediaUrl": "DS9308/missing-parts/Cable.png",
-              "heading": "required-parts.missing-parts-sp20.CABLE-4",
-              "text": "required-parts.missing-parts-sp20.CABLE-4-DESCRIPTION"
+              "heading": "required-parts.missing-parts-ds9308.CABLE-1",
+              "text": "required-parts.missing-parts-ds9308.CABLE-1-DESCRIPTION"
             }
           ],
           "buttons": {
@@ -84,7 +69,7 @@
           "hasStepsNavigation": true,
           "heading": "check-power.CONNECT-TO-COMPUTER",
           "text": "check-power.IS-CABLE-INSERTED-INTO-COMPUTER",
-          "mediaUrl": "common/Connect_to_Computer.png",
+          "mediaUrl": "DS9308/Connect_to_Computer.png",
           "buttons": {
             "yes": "buttons.ITS-PLUGGED-IN",
             "no": "buttons.NO-I-NEED-HELP"
