@@ -218,7 +218,7 @@
           "heading": "test-scan.TRY-FIX-1",
           "text": "test-scan.SCAN-BARCODE",
           "mediaUrl": "common/Fix1.png",
-          "barcodeUrl": "common/Fix1.pdf",
+          "barcodeUrl": "/Fix1.pdf",
           "additionalInfo": "check-power.TRY-FIX-1-INFO",
           "buttons": {
             "yes": "buttons.NEXT-STEP"
@@ -245,7 +245,7 @@
               "heading": "test-scan.TRY-FIX-2",
               "text": "test-scan.SCAN-BARCODE",
               "mediaUrl": "common/Fix2.png",
-              "barcodeUrl": "common/Fix2.pdf",
+              "barcodeUrl": "/Fix2.pdf",
               "additionalInfo": "check-power.TRY-FIX-2-INFO",
               "buttons": {
                 "yes": "buttons.NEXT-STEP"
