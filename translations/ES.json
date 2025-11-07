@@ -18,7 +18,7 @@
     "HEADER-LABEL": "Configuración simple del lector"
   },
   "required-parts": {
-    "REQUIRED-PARTS": "Piezas\u000Anecesarias",
+    "REQUIRED-PARTS": "Piezas necesarias",
     "LETS-SETUP-YOUR-SCANNER": "Configuremos su lector",
     "DO-YOU-HAVE-THESE-PARTS": "¿Tiene estas piezas?",
     "MISSING-PARTS": "Piezas faltantes",
@@ -43,7 +43,7 @@
     "missing-parts-ds4678": {}
   },
   "check-power": {
-    "CHECK-POWER": "Verificar\u200Bla alimentación",
+    "CHECK-POWER": "Verificar la alimentación",
     "CONNECT-SCANNER-TO-COMPUTER": "Conexión del lector a la computadora",
     "IS-THE-GREEN-LED-ON": "¿Está encendido el LED verde?",
     "IS-THE-GREEN-LED-ON-NOW": "¿Está encendido el LED verde ahora?",
@@ -81,7 +81,7 @@
     "HAS-SCANNER-PAIRED-DESCRIPTION": ""
   },
   "test-scan": {
-    "TEST-SCAN": "Lectura&#10;de prueba",
+    "TEST-SCAN": "Lectura de prueba",
     "LAUNCH-YOUR-APP": "Inicie la aplicación",
     "TEST-SCAN-STEP-1": "Lectura de prueba: paso 1",
     "TEST-SCAN-STEP-2": "Lectura de prueba: paso 2",
