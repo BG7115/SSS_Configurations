@@ -18,7 +18,7 @@
     "HEADER-LABEL": "Configuración simple del lector"
   },
   "required-parts": {
-    "REQUIRED-PARTS": "Piezas <br/>necesarias",
+    "REQUIRED-PARTS": "Piezas\nnecesarias",
     "LETS-SETUP-YOUR-SCANNER": "Configuremos su lector",
     "DO-YOU-HAVE-THESE-PARTS": "¿Tiene estas piezas?",
     "MISSING-PARTS": "Piezas faltantes",
