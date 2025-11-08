@@ -18,6 +18,7 @@
     "HEADER-LABEL": "Simple Scanner Setup"
   },
   "required-parts": {
+    "PARTS-CHECK": "Parts Check",
     "REQUIRED-PARTS": "Required Parts",
     "LETS-SETUP-YOUR-SCANNER": "Let's Setup Your Scanner",
     "DO-YOU-HAVE-THESE-PARTS": "Do you have these parts?",
@@ -86,11 +87,11 @@
     "RE-CHECK-POWER-AGAIN": "Re-Check Power Again",
     "TRY-FIX-1-INFO": "This barcode stops your scanner from \"Pressing Enter\" after each scan.",
     "TRY-FIX-2-INFO": "This barcode enables your scanner to \"Press Tab\" after each scan.",
-    "INSERT_BATTERY": "Insert Battery",
+    "INSERT-BATTERY": "Insert Battery",
     "IS-BATTERY-INSERTED": "Is the battery inserted into Scanner?",
     "CONNECT-CRADLE-TO-COMPUTER": "Connect Cradle to Computer",
     "IS-CRADLE-GREEN-LED-ON": "Is the cradle’s green LED on?",
-    "UNLOCK_BATTERY_DESCRIPTION": "1. Unlock battery latch with coin.<br/> 2. Insert battery and lock battery latch.",
+    "UNLOCK-BATTERY-DESCRIPTION": "1. Unlock battery latch with coin.<br/> 2. Insert battery and lock battery latch.",
     "IS-CABLE-INSERTED-TO-CRADLE": "Is cable inserted to the cradle?",
     "RECHECK-CONNECTION-TO-CRALE": "Re-Check Connection to Cradle",
     "RECHECK-CONNECTION-TO-COMPUTER": "Re-Check Connection to Computer",
@@ -150,6 +151,8 @@
     "NO-NOT-WORKING": "No, Not Working",
     "YES-IT-BEEPS": "Yes, It Beeps",
     "NEXT-STEP": "Next Step",
-    "NEXT": "Next"
+    "NEXT": "Next",
+    "I-NEED-HELP": "I Need Help",
+    "BATTERY-INSERTED": "Battery Inserted"
   }
 }

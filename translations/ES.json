@@ -18,6 +18,7 @@
     "HEADER-LABEL": "Configuración simple del lector"
   },
   "required-parts": {
+    "PARTS-CHECK": "",
     "REQUIRED-PARTS": "Piezas<br/>necesarias",
     "LETS-SETUP-YOUR-SCANNER": "Configuremos su lector",
     "DO-YOU-HAVE-THESE-PARTS": "¿Tiene estas piezas?",
@@ -62,11 +63,11 @@
     "RE-CHECK-POWER-AGAIN": "Volver a verificar la alimentación",
     "TRY-FIX-1-INFO": "Este código de barras impide que el lector \"presione Enter\" después de cada lectura.",
     "TRY-FIX-2-INFO": "Este código de barras permite que el lector \"presione la tecla Tab\" después de cada lectura.",
-    "INSERT_BATTERY": "",
+    "INSERT-BATTERY": "",
     "IS-BATTERY-INSERTED": "",
     "CONNECT-CRADLE-TO-COMPUTER": "",
     "IS-CRADLE-GREEN-LED-ON": "",
-    "UNLOCK_BATTERY_DESCRIPTION": "",
+    "UNLOCK-BATTERY-DESCRIPTION": "",
     "IS-CABLE-INSERTED-TO-CRADLE": "",
     "RECHECK-CONNECTION-TO-CRALE": "",
     "RECHECK-CONNECTION-TO-COMPUTER": "",
@@ -126,6 +127,8 @@
     "NO-NOT-WORKING": "No, no funciona",
     "YES-IT-BEEPS": "Sí, emite un pitido",
     "NEXT-STEP": "Paso siguiente",
-    "NEXT": "Siguiente"
+    "NEXT": "Siguiente",
+    "I-NEED-HELP": "",
+    "BATTERY-INSERTED": ""
   }
 }

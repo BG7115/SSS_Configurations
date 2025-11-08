@@ -4,12 +4,12 @@
   "wizardConfig": [
     {
       "stepNumber": 0,
-      "stepLabel": "required-parts.REQUIRED-PARTS",
+      "stepLabel": "required-parts.PARTS-CHECK",
       "id": "level-0",
       "hasStepsNavigation": true,
       "heading": "required-parts.LETS-SETUP-YOUR-SCANNER",
       "text": "required-parts.DO-YOU-HAVE-THESE-PARTS",
-      "mediaUrl": "DS4678/Parts_Check.png",
+      "mediaUrl": "",
       "buttons": {
         "yes": "buttons.YES-I-DO",
         "no": "buttons.NO-I-DONT"
@@ -17,7 +17,7 @@
       "steps": [
         {
           "stepNumber": 0,
-          "stepLabel": "required-parts.REQUIRED-PARTS",
+          "stepLabel": "required-parts.PARTS-CHECK",
           "id": "level-0-0",
           "hasStepsNavigation": false,
           "heading": "required-parts.MISSING-PARTS",
@@ -41,12 +41,12 @@
       "stepLabel": "check-power.CHECK-POWER",
       "id": "level-1",
       "hasStepsNavigation": true,
-      "heading": "check-power.CONNECT-SCANNER-TO-COMPUTER",
-      "text": "check-power.IS-THE-GREEN-LED-ON",
-      "mediaUrl": "SP20/Connect_Scanner_to_Computer.png",
+      "heading": "check-power.INSERT-BATTERY",
+      "text": "check-power.IS-BATTERY-INSERTED",
+      "mediaUrl": "",
       "buttons": {
         "yes": "buttons.YES-IT-IS",
-        "no": "buttons.NO-ITS-NOT"
+        "no": "buttons.I-NEED-HELP"
       },
       "steps": [
         {
@@ -54,12 +54,11 @@
           "stepLabel": "check-power.CHECK-POWER",
           "id": "level-1-0",
           "hasStepsNavigation": true,
-          "heading": "check-power.CONNECT-TO-SCANNER",
-          "text": "check-power.IS-THE-CABLE-INSERTED-TO-THE-SCANNER",
-          "mediaUrl": "SP20/Connect_to_Scanner.png",
-          "additionalInfo": "check-power.CONNECT-TO-SCANNER-ADDITIONAL-INFO",
+          "heading": "check-power.INSERT-BATTERY",
+          "text": "check-power.UNLOCK-BATTERY-DESCRIPTION",
+          "mediaUrl": "",
           "buttons": {
-            "yes": "buttons.ITS-PLUGGED-IN"
+            "yes": "buttons.BATTERY-INSERTED"
           }
         },
         {
@@ -67,12 +66,12 @@
           "stepLabel": "check-power.CHECK-POWER",
           "id": "level-1-1",
           "hasStepsNavigation": true,
-          "heading": "check-power.CONNECT-TO-COMPUTER",
-          "text": "check-power.IS-CABLE-INSERTED-INTO-COMPUTER",
-          "mediaUrl": "common/Connect_to_Computer.png",
+          "heading": "check-power.CONNECT-CRADLE-TO-COMPUTER",
+          "text": "check-power.IS-CRADLE-GREEN-LED-ON",
+          "mediaUrl": "",
           "buttons": {
-            "yes": "buttons.ITS-PLUGGED-IN",
-            "no": "buttons.NO-I-NEED-HELP"
+            "yes": "buttons.YES-IT-IS",
+            "no": "buttons.NO-ITS-NOT"
           },
           "steps": [
             {
