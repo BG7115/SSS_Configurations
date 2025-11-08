@@ -9,7 +9,7 @@
       "hasStepsNavigation": true,
       "heading": "required-parts.LETS-SETUP-YOUR-SCANNER",
       "text": "required-parts.DO-YOU-HAVE-THESE-PARTS",
-      "mediaUrl": "",
+      "mediaUrl": "DS4678/missing-parts/Cable.png",
       "buttons": {
         "yes": "buttons.YES-I-DO",
         "no": "buttons.NO-I-DONT"
@@ -43,7 +43,7 @@
       "hasStepsNavigation": true,
       "heading": "check-power.INSERT-BATTERY",
       "text": "check-power.IS-BATTERY-INSERTED",
-      "mediaUrl": "",
+      "mediaUrl": "DS4678/missing-parts/Cable.png",
       "buttons": {
         "yes": "buttons.YES-IT-IS",
         "no": "buttons.I-NEED-HELP"
@@ -56,7 +56,7 @@
           "hasStepsNavigation": true,
           "heading": "check-power.INSERT-BATTERY",
           "text": "check-power.UNLOCK-BATTERY-DESCRIPTION",
-          "mediaUrl": "",
+          "mediaUrl": "DS4678/missing-parts/Cable.png",
           "buttons": {
             "yes": "buttons.BATTERY-INSERTED"
           }
@@ -70,7 +70,7 @@
       "hasStepsNavigation": true,
       "heading": "check-power.CONNECT-CRADLE-TO-COMPUTER",
       "text": "check-power.IS-CRADLE-GREEN-LED-ON",
-      "mediaUrl": "",
+      "mediaUrl": "DS4678/missing-parts/Cable.png",
       "buttons": {
         "yes": "buttons.YES-IT-IS",
         "no": "buttons.NO-ITS-NOT"
@@ -83,7 +83,7 @@
           "hasStepsNavigation": true,
           "heading": "check-power.CONNECT-TO-CRADLE",
           "text": "check-power.IS-CABLE-INSERTED-TO-CRADLE",
-          "mediaUrl": "",
+          "mediaUrl": "DS4678/missing-parts/Cable.png",
           "additionalInfo": "check-power.CONNECT-TO-SCANNER-ADDITIONAL-INFO",
           "buttons": {
             "yes": "buttons.ITS-PLUGGED-IN"

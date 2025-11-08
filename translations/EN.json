@@ -90,6 +90,7 @@
     "INSERT-BATTERY": "Insert Battery",
     "IS-BATTERY-INSERTED": "Is the battery inserted into Scanner?",
     "CONNECT-CRADLE-TO-COMPUTER": "Connect Cradle to Computer",
+    "CONNECT-TO-CRADLE": "Connect to Cradle",
     "IS-CRADLE-GREEN-LED-ON": "Is the cradle’s green LED on?",
     "UNLOCK-BATTERY-DESCRIPTION": "1. Unlock battery latch with coin.<br/> 2. Insert battery and lock battery latch.",
     "IS-CABLE-INSERTED-TO-CRADLE": "Is cable inserted to the cradle?",
