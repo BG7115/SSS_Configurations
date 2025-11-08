@@ -72,21 +72,7 @@
           "buttons": {
             "yes": "buttons.YES-IT-IS",
             "no": "buttons.NO-ITS-NOT"
-          },
-          "steps": [
-            {
-              "stepNumber": 1,
-              "stepLabel": "check-power.CHECK-POWER",
-              "id": "level-1-1-0",
-              "hasStepsNavigation": true,
-              "heading": "check-power.TRY-DIFFERENT-COMPUTER-USB-PORT",
-              "text": "check-power.MUST-BE-POWERED-USB-HUB",
-              "mediaUrl": "common/Try_different_computer_USB_port.png",
-              "buttons": {
-                "yes": "buttons.ITS-PLUGGED-IN"
-              }
-            }
-          ]
+          }
         },
         {
           "stepNumber": 1,
@@ -142,6 +128,18 @@
           ]
         }
       ]
+    },
+    {
+      "stepNumber": 2,
+      "stepLabel": "test-scan.TEST-SCAN",
+      "id": "level-21",
+      "hasStepsNavigation": true,
+      "heading": "test-scan.TEST-SCAN-STEP-1",
+      "text": "test-scan.LAUNCH-YOUR-APP",
+      "mediaUrl": "common/Test_Scan_1.png",
+      "buttons": {
+        "yes": "buttons.NEXT"
+      }
     },
     {
       "stepNumber": 2,
