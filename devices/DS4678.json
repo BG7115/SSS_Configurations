@@ -74,7 +74,49 @@
       "buttons": {
         "yes": "buttons.YES-IT-IS",
         "no": "buttons.NO-ITS-NOT"
-      }
+      },
+      "steps": [
+        {
+          "stepNumber": 1,
+          "stepLabel": "check-power.CHECK-POWER",
+          "id": "level-11-0",
+          "hasStepsNavigation": true,
+          "heading": "check-power.CONNECT-TO-CRADLE",
+          "text": "check-power.IS-CABLE-INSERTED-TO-CRADLE",
+          "mediaUrl": "",
+          "additionalInfo": "check-power.CONNECT-TO-SCANNER-ADDITIONAL-INFO",
+          "buttons": {
+            "yes": "buttons.ITS-PLUGGED-IN"
+          }
+        }
+      ]
+    },
+    {
+      "stepNumber": 1,
+      "stepLabel": "check-power.CHECK-POWER",
+      "id": "level-12",
+      "hasStepsNavigation": true,
+      "heading": "check-power.CONNECT-TO-COMPUTER",
+      "text": "check-power.IS-CABLE-INSERTED-INTO-COMPUTER",
+      "mediaUrl": "",
+      "buttons": {
+        "yes": "buttons.ITS-PLUGGED-IN",
+        "no": "buttons.NO-I-NEED-HELP"
+      },
+      "steps": [
+        {
+          "stepNumber": 1,
+          "stepLabel": "check-power.CHECK-POWER",
+          "id": "level-12-0",
+          "hasStepsNavigation": true,
+          "heading": "check-power.TRY-DIFFERENT-COMPUTER-USB-PORT",
+          "text": "check-power.MUST-BE-POWERED-USB-HUB",
+          "mediaUrl": "",
+          "buttons": {
+            "yes": "buttons.ITS-PLUGGED-IN"
+          }
+        }
+      ]
     },
     {
       "stepNumber": 2,
