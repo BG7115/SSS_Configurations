@@ -60,74 +60,21 @@
           "buttons": {
             "yes": "buttons.BATTERY-INSERTED"
           }
-        },
-        {
-          "stepNumber": 1,
-          "stepLabel": "check-power.CHECK-POWER",
-          "id": "level-1-1",
-          "hasStepsNavigation": true,
-          "heading": "check-power.CONNECT-CRADLE-TO-COMPUTER",
-          "text": "check-power.IS-CRADLE-GREEN-LED-ON",
-          "mediaUrl": "",
-          "buttons": {
-            "yes": "buttons.YES-IT-IS",
-            "no": "buttons.NO-ITS-NOT"
-          }
-        },
-        {
-          "stepNumber": 1,
-          "stepLabel": "check-power.CHECK-POWER",
-          "id": "level-1-2",
-          "hasStepsNavigation": true,
-          "heading": "check-power.RE-CHECK-POWER",
-          "text": "check-power.IS-THE-GREEN-LED-ON-NOW",
-          "mediaUrl": "SP20/Connect_Scanner_to_Computer.png",
-          "buttons": {
-            "yes": "buttons.YES-I-SEE-A-LIGHT",
-            "no": "buttons.NO-I-NEED-HELP"
-          },
-          "steps": [
-            {
-              "stepNumber": 1,
-              "stepLabel": "check-power.CHECK-POWER",
-              "id": "level-1-2-0",
-              "hasStepsNavigation": true,
-              "heading": "check-power.RE-CHECK-CONNECTION-TO-SCANNER",
-              "text": "check-power.RE-CHECK-CONNECTION-TO-SCANNER-DESCRIPTION",
-              "mediaUrl": "SP20/Connect_to_Scanner.png",
-              "buttons": {
-                "yes": "buttons.YES-ITS-PLUGGED-IN"
-              }
-            },
-            {
-              "stepNumber": 1,
-              "stepLabel": "check-power.CHECK-POWER",
-              "id": "level-1-3",
-              "hasStepsNavigation": true,
-              "heading": "check-power.RE-CHECK-CONNECTION-TO-COMPUTER",
-              "text": "check-power.RE-CHECK-CONNECTION-TO-COMPUTER-DESCRIPTION",
-              "mediaUrl": "common/Connect_to_Computer.png",
-              "buttons": {
-                "yes": "buttons.YES-ITS-PLUGGED-IN"
-              }
-            },
-            {
-              "stepNumber": 1,
-              "stepLabel": "check-power.CHECK-POWER",
-              "id": "level-1-4",
-              "hasStepsNavigation": true,
-              "heading": "check-power.RE-CHECK-POWER-AGAIN",
-              "text": "check-power.IS-THE-GREEN-LED-ON",
-              "mediaUrl": "SP20/Connect_Scanner_to_Computer.png",
-              "buttons": {
-                "yes": "buttons.YES",
-                "no": "buttons.CHAT-FOR-HELP",
-                "noCustomLink": "http://support.zebra.com"
-              }
-            }
-          ]
         }
       ]
+    },
+    {
+      "stepNumber": 1,
+      "stepLabel": "check-power.CHECK-POWER",
+      "id": "level-11",
+      "hasStepsNavigation": true,
+      "heading": "check-power.CONNECT-CRADLE-TO-COMPUTER",
+      "text": "check-power.IS-CRADLE-GREEN-LED-ON",
+      "mediaUrl": "",
+      "buttons": {
+        "yes": "buttons.YES-IT-IS",
+        "no": "buttons.NO-ITS-NOT"
+      }
     },
     {
       "stepNumber": 2,
