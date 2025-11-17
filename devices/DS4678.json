@@ -177,7 +177,7 @@
           "mediaUrl": "SP20/Listen_For_Beep.png",
           "buttons": {
             "yes": "buttons.YES-IT-BEEPS",
-            "no": "buttons.CHAT-FOR-HELP",
+            "no": "buttons.ZEBRA-SUPPORT-PAGE",
             "noCustomLink": "http://support.zebra.com"
           }
         },
@@ -232,7 +232,7 @@
               "mediaUrl": "common/Retry_Test_Scan.png",
               "buttons": {
                 "yes": "buttons.YES-IT_WORKS",
-                "no": "buttons.CHAT-FOR-HELP",
+                "no": "buttons.ZEBRA-SUPPORT-PAGE",
                 "noCustomLink": "http://support.zebra.com"
               }
             }
