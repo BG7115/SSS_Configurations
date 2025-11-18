@@ -94,9 +94,12 @@
     "IS-CRADLE-GREEN-LED-ON": "Is the cradle’s green LED on?",
     "UNLOCK-BATTERY-DESCRIPTION": "1. Unlock battery latch with coin.<br/> 2. Insert battery and lock battery latch.",
     "IS-CABLE-INSERTED-TO-CRADLE": "Is cable inserted to the cradle?",
-    "RECHECK-CONNECTION-TO-CRALE": "Re-Check Connection to Cradle",
+    "RECHECK-CONNECTION-TO-CRADLE": "Re-Check Connection to Cradle",
     "RECHECK-CONNECTION-TO-COMPUTER": "Re-Check Connection to Computer",
-    "IS-CRADLE-GREEN-LED-ON-NOW": "Is the cradle’s green LED on now?",
+    "IS-CRADLE-GREEN-LED-ON-NOW": "Is the cradle’s green LED on now?"
+  },
+  "pair-scanner": {
+    "PAIR-SCANNER": "Pair Scanner",
     "PLACE-SCANNER-ON-CRADLE": "Place Scanner on Cradle",
     "PLACE-SCANNER-ON-CRADLE-DESCRIPTION": "Place scanner in cradle to pair with cradle.",
     "PLACE-SCANNER-ON-CRADLE-ADDITIONAL-INFO": "A beep on your scanner confirms successful pairing.",
@@ -154,6 +157,9 @@
     "NEXT-STEP": "Next Step",
     "NEXT": "Next",
     "I-NEED-HELP": "I Need Help",
-    "BATTERY-INSERTED": "Battery Inserted"
+    "BATTERY-INSERTED": "Battery Inserted",
+    "ITS-NOT-WORKING": "It's Not Working",
+    "SCANNER-IS-PAIRED": "Scanner Is Paired",
+    "YES-CHARGED": "Yes, Charged"
   }
 }

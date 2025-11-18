@@ -39,7 +39,7 @@
     {
       "stepNumber": 1,
       "stepLabel": "check-power.CHECK-POWER",
-      "id": "level-1",
+      "id": "level-11",
       "hasStepsNavigation": true,
       "heading": "check-power.INSERT-BATTERY",
       "text": "check-power.IS-BATTERY-INSERTED",
@@ -52,7 +52,7 @@
         {
           "stepNumber": 1,
           "stepLabel": "check-power.CHECK-POWER",
-          "id": "level-1-0",
+          "id": "level-11-0",
           "hasStepsNavigation": true,
           "heading": "check-power.INSERT-BATTERY",
           "text": "check-power.UNLOCK-BATTERY-DESCRIPTION",
@@ -66,7 +66,7 @@
     {
       "stepNumber": 1,
       "stepLabel": "check-power.CHECK-POWER",
-      "id": "level-11",
+      "id": "level-12",
       "hasStepsNavigation": true,
       "heading": "check-power.CONNECT-CRADLE-TO-COMPUTER",
       "text": "check-power.IS-CRADLE-GREEN-LED-ON",
@@ -79,7 +79,7 @@
         {
           "stepNumber": 1,
           "stepLabel": "check-power.CHECK-POWER",
-          "id": "level-11-0",
+          "id": "level-12-0",
           "hasStepsNavigation": true,
           "heading": "check-power.CONNECT-TO-CRADLE",
           "text": "check-power.IS-CABLE-INSERTED-TO-CRADLE",
@@ -88,40 +88,136 @@
           "buttons": {
             "yes": "buttons.ITS-PLUGGED-IN"
           }
+        },
+        {
+          "stepNumber": 1,
+          "stepLabel": "check-power.CHECK-POWER",
+          "id": "level-12-1",
+          "hasStepsNavigation": true,
+          "heading": "check-power.CONNECT-TO-COMPUTER",
+          "text": "check-power.IS-CABLE-INSERTED-INTO-COMPUTER",
+          "mediaUrl": "DS4678/temp.png",
+          "buttons": {
+            "yes": "buttons.ITS-PLUGGED-IN",
+            "no": "buttons.NO-I-NEED-HELP"
+          },
+          "steps": [
+            {
+              "stepNumber": 1,
+              "stepLabel": "check-power.CHECK-POWER",
+              "id": "level-12-1-0",
+              "hasStepsNavigation": true,
+              "heading": "check-power.TRY-DIFFERENT-COMPUTER-USB-PORT",
+              "text": "check-power.MUST-BE-POWERED-USB-HUB",
+              "mediaUrl": "DS4678/temp.png",
+              "buttons": {
+                "yes": "buttons.ITS-PLUGGED-IN"
+              }
+            }
+          ]
+        },
+        {
+          "stepNumber": 1,
+          "stepLabel": "check-power.CHECK-POWER",
+          "id": "level-12-2",
+          "hasStepsNavigation": true,
+          "heading": "check-power.RE-CHECK-POWER",
+          "text": "check-power.IS-CRADLE-GREEN-LED-ON-NOW",
+          "mediaUrl": "DS4678/temp.png",
+          "buttons": {
+            "yes": "buttons.YES-I-SEE-A-LIGHT",
+            "no": "buttons.NO-I-NEED-HELP"
+          },
+          "steps": [
+            {
+              "stepNumber": 1,
+              "stepLabel": "check-power.CHECK-POWER",
+              "id": "level-12-2-0",
+              "hasStepsNavigation": true,
+              "heading": "check-power.RECHECK-CONNECTION-TO-CRADLE",
+              "text": "check-power.RE-CHECK-CONNECTION-TO-SCANNER-DESCRIPTION",
+              "mediaUrl": "DS4678/temp.png",
+              "additionalInfo": "check-power.CONNECT-TO-SCANNER-ADDITIONAL-INFO",
+              "buttons": {
+                "yes": "buttons.ITS-PLUGGED-IN"
+              }
+            },
+            {
+              "stepNumber": 1,
+              "stepLabel": "check-power.CHECK-POWER",
+              "id": "level-12-2-1",
+              "hasStepsNavigation": true,
+              "heading": "check-power.RECHECK-CONNECTION-TO-COMPUTER",
+              "text": "check-power.RE-CHECK-CONNECTION-TO-COMPUTER-DESCRIPTION",
+              "mediaUrl": "DS4678/temp.png",
+              "buttons": {
+                "yes": "buttons.ITS-PLUGGED-IN"
+              }
+            },
+            {
+              "stepNumber": 1,
+              "stepLabel": "check-power.CHECK-POWER",
+              "id": "level-12-2-2",
+              "hasStepsNavigation": true,
+              "heading": "check-power.RE-CHECK-POWER-AGAIN",
+              "text": "check-power.IS-CRADLE-GREEN-LED-ON-NOW",
+              "mediaUrl": "DS4678/temp.png",
+              "buttons": {
+                "yes": "buttons.YES-I-SEE-A-LIGHT",
+                "no": "buttons.ZEBRA-SUPPORT-PAGE"
+              }
+            }
+          ]
         }
       ]
     },
     {
-      "stepNumber": 1,
-      "stepLabel": "check-power.CHECK-POWER",
-      "id": "level-12",
+      "stepNumber": 2,
+      "stepLabel": "pair-scanner.PAIR-SCANNER",
+      "id": "level-2",
       "hasStepsNavigation": true,
-      "heading": "check-power.CONNECT-TO-COMPUTER",
-      "text": "check-power.IS-CABLE-INSERTED-INTO-COMPUTER",
-      "mediaUrl": "",
+      "heading": "pair-scanner.PLACE-SCANNER-ON-CRADLE",
+      "text": "pair-scanner.PLACE-SCANNER-ON-CRADLE-DESCRIPTION",
+      "additionalInfo": "pair-scanner.PLACE-SCANNER-ON-CRADLE-ADDITIONAL-INFO",
+      "mediaUrl": "common/Test_Scan_1.png",
       "buttons": {
-        "yes": "buttons.ITS-PLUGGED-IN",
-        "no": "buttons.NO-I-NEED-HELP"
+        "yes": "buttons.SCANNER-IS-PAIRED",
+        "no": "buttons.ITS-NOT-WORKING"
       },
       "steps": [
         {
-          "stepNumber": 1,
-          "stepLabel": "check-power.CHECK-POWER",
-          "id": "level-12-0",
+          "stepNumber": 2,
+          "stepLabel": "pair-scanner.PAIR-SCANNER",
+          "id": "level-2-0",
           "hasStepsNavigation": true,
-          "heading": "check-power.TRY-DIFFERENT-COMPUTER-USB-PORT",
-          "text": "check-power.MUST-BE-POWERED-USB-HUB",
-          "mediaUrl": "",
+          "heading": "pair-scanner.CONFIRM-SCANNER-IS-CHARGED",
+          "text": "pair-scanner.CONFIRM-SCANNER-IS-CHARGED-DESCRIPTION",
+          "additionalInfo": "pair-scanner.CONFIRM-SCANNER-IS-CHARGED-ADDITIONAL-INFO",
+          "mediaUrl": "common/Test_Scan_1.png",
           "buttons": {
-            "yes": "buttons.ITS-PLUGGED-IN"
+            "yes": "buttons.YES-CHARGED",
+            "no": "buttons.ZEBRA-SUPPORT-PAGE"
+          }
+        },
+        {
+          "stepNumber": 2,
+          "stepLabel": "pair-scanner.PAIR-SCANNER",
+          "id": "level-2-1",
+          "hasStepsNavigation": true,
+          "heading": "pair-scanner.HAS-SCANNER-PAIRED",
+          "text": "pair-scanner.HAS-SCANNER-PAIRED-DESCRIPTION",
+          "mediaUrl": "common/Test_Scan_1.png",
+          "buttons": {
+            "yes": "buttons.SCANNER-IS-PAIRED",
+            "no": "buttons.ZEBRA-SUPPORT-PAGE"
           }
         }
       ]
     },
     {
-      "stepNumber": 2,
+      "stepNumber": 3,
       "stepLabel": "test-scan.TEST-SCAN",
-      "id": "level-21",
+      "id": "level-31",
       "hasStepsNavigation": true,
       "heading": "test-scan.TEST-SCAN-STEP-1",
       "text": "test-scan.LAUNCH-YOUR-APP",
@@ -131,21 +227,9 @@
       }
     },
     {
-      "stepNumber": 2,
+      "stepNumber": 3,
       "stepLabel": "test-scan.TEST-SCAN",
-      "id": "level-21",
-      "hasStepsNavigation": true,
-      "heading": "test-scan.TEST-SCAN-STEP-1",
-      "text": "test-scan.LAUNCH-YOUR-APP",
-      "mediaUrl": "common/Test_Scan_1.png",
-      "buttons": {
-        "yes": "buttons.NEXT"
-      }
-    },
-    {
-      "stepNumber": 2,
-      "stepLabel": "test-scan.TEST-SCAN",
-      "id": "level-22",
+      "id": "level-32",
       "hasStepsNavigation": true,
       "heading": "test-scan.TEST-SCAN-STEP-2",
       "text": "test-scan.SCAN-YOUR-BARCODE",
@@ -155,9 +239,9 @@
       }
     },
     {
-      "stepNumber": 2,
+      "stepNumber": 3,
       "stepLabel": "test-scan.TEST-SCAN",
-      "id": "level-23",
+      "id": "level-33",
       "hasStepsNavigation": true,
       "heading": "test-scan.TEST-SCAN-STEP-3",
       "text": "test-scan.IS-EVERYTHING-WORKING-CORRECTLY",
@@ -168,13 +252,13 @@
       },
       "steps": [
         {
-          "stepNumber": 2,
+          "stepNumber": 3,
           "stepLabel": "test-scan.TEST-SCAN",
-          "id": "level-23-0",
+          "id": "level-33-0",
           "hasStepsNavigation": true,
           "heading": "test-scan.LISTEN-FOR-BEEP",
           "text": "test-scan.DO-YOU-HEAR-A-BEEP-WHEN-SCANNING",
-          "mediaUrl": "SP20/Listen_For_Beep.png",
+          "mediaUrl": "DS4678/temp.png",
           "buttons": {
             "yes": "buttons.YES-IT-BEEPS",
             "no": "buttons.ZEBRA-SUPPORT-PAGE",
@@ -182,9 +266,9 @@
           }
         },
         {
-          "stepNumber": 2,
+          "stepNumber": 3,
           "stepLabel": "test-scan.TEST-SCAN",
-          "id": "level-23-1",
+          "id": "level-33-1",
           "hasStepsNavigation": true,
           "heading": "test-scan.TRY-FIX-1",
           "text": "test-scan.SCAN-BARCODE",
@@ -196,9 +280,9 @@
           }
         },
         {
-          "stepNumber": 2,
+          "stepNumber": 3,
           "stepLabel": "test-scan.TEST-SCAN",
-          "id": "level-23-2",
+          "id": "level-33-2",
           "hasStepsNavigation": true,
           "heading": "test-scan.RETRY-TEST-SCAN",
           "text": "test-scan.IS-EVERYTHING-WORKING-CORRECTLY-NOW",
@@ -209,9 +293,9 @@
           },
           "steps": [
             {
-              "stepNumber": 2,
+              "stepNumber": 3,
               "stepLabel": "test-scan.TEST-SCAN",
-              "id": "level-23-2-0",
+              "id": "level-33-2-0",
               "hasStepsNavigation": true,
               "heading": "test-scan.TRY-FIX-2",
               "text": "test-scan.SCAN-BARCODE",
@@ -223,9 +307,9 @@
               }
             },
             {
-              "stepNumber": 2,
+              "stepNumber": 3,
               "stepLabel": "test-scan.TEST-SCAN",
-              "id": "level-23-2-1",
+              "id": "level-33-2-1",
               "hasStepsNavigation": true,
               "heading": "test-scan.RETRY-TEST-SCAN",
               "text": "test-scan.IS-EVERYTHING-WORKING-CORRECTLY-NOW",
