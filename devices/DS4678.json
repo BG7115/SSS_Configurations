@@ -179,7 +179,7 @@
       "heading": "pair-scanner.PLACE-SCANNER-ON-CRADLE",
       "text": "pair-scanner.PLACE-SCANNER-ON-CRADLE-DESCRIPTION",
       "additionalInfo": "pair-scanner.PLACE-SCANNER-ON-CRADLE-ADDITIONAL-INFO",
-      "mediaUrl": "common/Test_Scan_1.png",
+      "mediaUrl": "DS4678/temp.png",
       "buttons": {
         "yes": "buttons.SCANNER-IS-PAIRED",
         "no": "buttons.ITS-NOT-WORKING"
@@ -193,7 +193,7 @@
           "heading": "pair-scanner.CONFIRM-SCANNER-IS-CHARGED",
           "text": "pair-scanner.CONFIRM-SCANNER-IS-CHARGED-DESCRIPTION",
           "additionalInfo": "pair-scanner.CONFIRM-SCANNER-IS-CHARGED-ADDITIONAL-INFO",
-          "mediaUrl": "common/Test_Scan_1.png",
+          "mediaUrl": "DS4678/temp.png",
           "buttons": {
             "yes": "buttons.YES-CHARGED",
             "no": "buttons.ZEBRA-SUPPORT-PAGE"
@@ -206,7 +206,7 @@
           "hasStepsNavigation": true,
           "heading": "pair-scanner.HAS-SCANNER-PAIRED",
           "text": "pair-scanner.HAS-SCANNER-PAIRED-DESCRIPTION",
-          "mediaUrl": "common/Test_Scan_1.png",
+          "mediaUrl": "DS4678/temp.png",
           "buttons": {
             "yes": "buttons.SCANNER-IS-PAIRED",
             "no": "buttons.ZEBRA-SUPPORT-PAGE"
