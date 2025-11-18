@@ -72,7 +72,10 @@
     "IS-CABLE-INSERTED-TO-CRADLE": "",
     "RECHECK-CONNECTION-TO-CRALE": "",
     "RECHECK-CONNECTION-TO-COMPUTER": "",
-    "IS-CRADLE-GREEN-LED-ON-NOW": "",
+    "IS-CRADLE-GREEN-LED-ON-NOW": ""
+  },
+  "pair-scanner": {
+    "PAIR-SCANNER": "",
     "PLACE-SCANNER-ON-CRADLE": "",
     "PLACE-SCANNER-ON-CRADLE-DESCRIPTION": "",
     "PLACE-SCANNER-ON-CRADLE-ADDITIONAL-INFO": "",
@@ -129,7 +132,10 @@
     "YES-IT-BEEPS": "Sí, emite un pitido",
     "NEXT-STEP": "Paso siguiente",
     "NEXT": "Siguiente",
-    "I-NEED-HELP": "",
-    "BATTERY-INSERTED": ""
+    "I-NEED-HELP": "Necesito ayuda",
+    "BATTERY-INSERTED": "",
+    "ITS-NOT-WORKING": "",
+    "SCANNER-IS-PAIRED": "",
+    "YES-CHARGED": ""
   }
 }

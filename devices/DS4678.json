@@ -109,7 +109,7 @@
               "hasStepsNavigation": true,
               "heading": "check-power.TRY-DIFFERENT-COMPUTER-USB-PORT",
               "text": "check-power.MUST-BE-POWERED-USB-HUB",
-              "mediaUrl": "DS4678/temp.png",
+              "mediaUrl": "common/Try_different_computer_USB_port.png",
               "buttons": {
                 "yes": "buttons.ITS-PLUGGED-IN"
               }

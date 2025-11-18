@@ -63,7 +63,7 @@
       "CABLE-1-DESCRIPTION": "USB A, 7ft. (2.1m), Straight, Black, Right-Angle Connector"
     },
     "missing-parts-ds4678": {
-      "CABLE-1": "temp-part-ds4678",
+      "CABLE-1": "temp-part-sp7208",
       "CABLE-1-DESCRIPTION": "USB A, 7ft. (2.1m), Straight, Black, Right-Angle Connector"
     }
   },
