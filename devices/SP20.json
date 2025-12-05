@@ -152,7 +152,7 @@
               "buttons": {
                 "yes": "buttons.YES",
                 "no": "buttons.ZEBRA-SUPPORT-PAGE",
-                "noCustomLink": "http://support.zebra.com"
+                "noCustomLink": "https://www.zebra.com/ap/en/support-downloads/scanners/multi-plane-scanners/sp20-series.html#Tab-item-f2a3a653a0-tab"
               }
             }
           ]
@@ -207,7 +207,7 @@
           "buttons": {
             "yes": "buttons.YES-IT-BEEPS",
             "no": "buttons.ZEBRA-SUPPORT-PAGE",
-            "noCustomLink": "http://support.zebra.com"
+            "noCustomLink": "https://www.zebra.com/ap/en/support-downloads/scanners/multi-plane-scanners/sp20-series.html#Tab-item-f2a3a653a0-tab"
           }
         },
         {
@@ -262,7 +262,7 @@
               "buttons": {
                 "yes": "buttons.YES-IT_WORKS",
                 "no": "buttons.ZEBRA-SUPPORT-PAGE",
-                "noCustomLink": "http://support.zebra.com"
+                "noCustomLink": "https://www.zebra.com/ap/en/support-downloads/scanners/multi-plane-scanners/sp20-series.html#Tab-item-f2a3a653a0-tab"
               }
             }
           ]
